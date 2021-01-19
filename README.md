@@ -3,7 +3,7 @@ Replication Code for Update to Figure 1 in "Macroeconomic Shocks and their Propa
 
 ## Plot the graphs
 To plot the graphs:
-- Save all files in a folder.
+- Download the folder.
 - Open the script ''2-Models_Ramey.R''.
-- Change the working directory at the beginning of the script with the name of the folder.
+- Make sure the working directory at line 5 is the one of the folder.
 - Run the script.
