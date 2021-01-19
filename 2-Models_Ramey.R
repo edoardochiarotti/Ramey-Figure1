@@ -2,7 +2,7 @@
 rm(list=ls(all=TRUE))
 
 # SET WD (CHANGE IT AS NEEDED)
-mywd <- "~/Documents/GitHub/Ramey-Figure1"
+mywd <- "~/Downloads/Ramey-Figure1-main"
 setwd(mywd)
 
 # GET FUNCTIONS
