@@ -3,7 +3,7 @@
 ##### FUNCTIONS #####
 #####################
 
-##### DETACH ALL PACKAGES ######
+##### DETACH ALL PACKAGES #####
 "detachAllPackages" <- function() {
   basic.packages.blank <-  c("stats", 
                              "graphics", 
